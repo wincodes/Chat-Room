@@ -1,0 +1,16 @@
+{
+  "name": "node-chat-app",
+  "version": "1.0.0",
+  "description": "Godwin node chat app using socket.io",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Godwin Otokina",
+  "license": "ISC",
+  "dependencies": {
+    "mongod": "^2.0.0",
+    "mongodb": "^3.2.2",
+    "socket.io": "^2.2.0"
+  }
+}
